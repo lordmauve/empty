@@ -13,3 +13,4 @@ Pull requests will be gratefully received, but please note that you must be will
 
 Copyright (c) Daniel Pope 2018  
 All rights reserved.
+Reproduction, in whole or in part, is strictly prohibited.
